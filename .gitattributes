@@ -1,0 +1,12 @@
+*.vbproj binary
+*.dll binary
+*.exe binary
+*.sed binary
+*.xd binary
+*.png binary
+*.ico binary
+*.pdf binary
+*.psd binary
+*.docx binary
+*.ai binary
+*.pdb binary

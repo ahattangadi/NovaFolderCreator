@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nova Folder Creator GUI/21.12": {
+        "runtime": {
+          "Nova Folder Creator GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nova Folder Creator GUI/21.12": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

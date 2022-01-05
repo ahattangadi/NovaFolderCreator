@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\My Project\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AboutBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formEditProfile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formManageProfiles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formStudentsList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formClassName.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="formUpdating.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTreeViewPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

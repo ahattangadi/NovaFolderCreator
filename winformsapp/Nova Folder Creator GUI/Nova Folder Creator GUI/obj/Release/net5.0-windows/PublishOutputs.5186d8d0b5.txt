@@ -1,0 +1,5 @@
+D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\bin\publish\Nova Folder Creator GUI.exe
+D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\bin\publish\Nova Folder Creator GUI.dll
+D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\bin\publish\Nova Folder Creator GUI.deps.json
+D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\bin\publish\Nova Folder Creator GUI.runtimeconfig.json
+D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\bin\publish\Nova Folder Creator GUI.pdb

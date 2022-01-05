@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Nova Folder Creator": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\debug-profile-dir"
+    }
+  }
+}

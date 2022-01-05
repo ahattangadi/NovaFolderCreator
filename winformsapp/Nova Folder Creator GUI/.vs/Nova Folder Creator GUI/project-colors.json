@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcc26d8a-65d5-49d3-a52b-5aa9bf9101c8": {
+      "ProjectGuid": "bcc26d8a-65d5-49d3-a52b-5aa9bf9101c8",
+      "DisplayName": "Nova Folder Creator GUI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ccb68a3f-f7b4-4bb2-9fb9-099493cab053": {
+      "ProjectGuid": "ccb68a3f-f7b4-4bb2-9fb9-099493cab053",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "61993ce7-33c2-41ef-85c7-9bb740538306": {
+      "ProjectGuid": "61993ce7-33c2-41ef-85c7-9bb740538306",
+      "DisplayName": "NovaUpdater",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,3 @@
+@ECHO off
+msiexec /x {6A591F46-D122-4F16-ABFE-9505527DB4C4}
+exit
