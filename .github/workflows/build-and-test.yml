@@ -5,11 +5,11 @@ on:
   pull_request:
     branches: [ main ]
     paths:
-    - 'Nova Folder Creator GUI/Nova Folder Creator GUI/*.vbproj'
-    - 'Nova Folder Creator GUI/Nova Folder Creator GUI/*.vb'
-    - 'Nova Folder Creator GUI/NovaUpdater/*.vb'
-    - 'Nova Folder Creator GUI/NovaUpdater/*.vbproj'
-    
+    - 'winformsapp/Nova Folder Creator GUI/Nova Folder Creator GUI/*.vbproj'
+    - 'winformsapp/Nova Folder Creator GUI/Nova Folder Creator GUI/*.vb'
+    - 'winformsapp/Nova Folder Creator GUI/NovaUpdater/*.vb'
+    - 'winformsapp/Nova Folder Creator GUI/NovaUpdater/*.vbproj'
+
 
 env:
   DOTNET_VERSION: '5.0.301' # The .NET SDK version to use
