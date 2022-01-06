@@ -1,4 +1,5 @@
 name: build and test
+working-directory: winformsapp/Nova Folder Creator GUI/
 
 on:
   push:
