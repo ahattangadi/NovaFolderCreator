@@ -51,7 +51,7 @@ Partial Class Form1
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.ProgressBar1)
         Me.Name = "Form1"
-        Me.Text = "Form1"
+        Me.Text = "Updating Nova Folder Creator..."
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

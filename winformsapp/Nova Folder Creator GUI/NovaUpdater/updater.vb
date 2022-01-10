@@ -2,7 +2,8 @@
 
 Public Class Form1
 
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles Me.Load
+
+    Private Sub Form1_Shown(sender As Object, e As EventArgs) Handles Me.Shown
         Dim extractedPath As String = "C:\" & "\.temp-nfcupdate\extracted"
         Dim appPath As String = Path.GetDirectoryName(Application.ExecutablePath)
 
