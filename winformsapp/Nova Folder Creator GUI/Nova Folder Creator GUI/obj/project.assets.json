@@ -13,11 +13,11 @@
   "project": {
     "version": "21.12.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\Nova Folder Creator GUI\\Nova Folder Creator GUI.vbproj",
+      "projectUniqueName": "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\Nova Folder Creator GUI\\Nova Folder Creator GUI.vbproj",
       "projectName": "Nova Folder Creator",
-      "projectPath": "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\Nova Folder Creator GUI\\Nova Folder Creator GUI.vbproj",
+      "projectPath": "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\Nova Folder Creator GUI\\Nova Folder Creator GUI.vbproj",
       "packagesPath": "C:\\Users\\aarav\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\Nova Folder Creator GUI\\obj\\",
+      "outputPath": "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\Nova Folder Creator GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aarav\\AppData\\Roaming\\NuGet\\NuGet.Config",

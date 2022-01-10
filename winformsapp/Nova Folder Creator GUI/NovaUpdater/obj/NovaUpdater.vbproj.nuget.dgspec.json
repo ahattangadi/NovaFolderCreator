@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj": {}
+    "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj": {}
   },
   "projects": {
-    "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj": {
+    "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj",
+        "projectUniqueName": "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj",
         "projectName": "NovaUpdater",
-        "projectPath": "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj",
+        "projectPath": "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj",
         "packagesPath": "C:\\Users\\aarav\\.nuget\\packages\\",
-        "outputPath": "D:\\Data\\TECH\\Code\\Side Projects\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\obj\\",
+        "outputPath": "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aarav\\AppData\\Roaming\\NuGet\\NuGet.Config",
