@@ -31,3 +31,23 @@ D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Crea
 D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.formManageProfiles.resources
 D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.formUpdating.resources
 D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.frmTreeViewPreview.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.vbproj.AssemblyReference.cache
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.AboutBox.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.Form1.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.Form2.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.formClassName.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.formEditProfile.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.formManageProfiles.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.formStudentsList.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.formUpdating.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.frmTreeViewPreview.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova_Folder_Creator_GUI.Resources.resources
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.vbproj.GenerateResource.cache
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.AssemblyInfoInputs.cache
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.AssemblyInfo.vb
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.vbproj.CoreCompileInputs.cache
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.dll
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\ref\Nova Folder Creator GUI.dll
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.pdb
+D:\Data\TECH\Code\Side Projects\Cipher\Nova Folder Creator\winformsapp\Nova Folder Creator GUI\Nova Folder Creator GUI\obj\Debug\net5.0-windows\Nova Folder Creator GUI.genruntimeconfig.cache

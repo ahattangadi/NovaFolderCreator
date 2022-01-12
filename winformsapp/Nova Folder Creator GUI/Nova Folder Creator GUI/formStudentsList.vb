@@ -1,4 +1,6 @@
 ﻿Imports System.IO
+Imports System.Text.RegularExpressions
+
 Public Class formStudentsList
     Public StudentsList As String = "null"
 
@@ -92,5 +94,30 @@ Public Class formStudentsList
         Else
             MessageBox.Show("Only Nova Profiles can be loaded", "An error has occured", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End If
+    End Sub
+
+    Private Sub TextBox1_textChanged(sender As Object, e As KeyPressEventArgs) Handles TextBox1.KeyPress
+
+        'Dim errorcounter As Short = 0
+
+        'If Char.IsLetterOrDigit(e.KeyChar) Or Char.IsControl(e.KeyChar) Then
+        '    e.Handled = False
+
+        'Else
+        '    Interaction.Beep()
+        '    errorcounter = errorcounter + 1
+        '    If (errorcounter > 3) Then
+        '        MessageBox.Show("Special characters are not allowed", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+        '    End If
+        'End If
+
+        'Dim regex As New Regex("[^a-zA-Z0-9\s[\b]]")
+        'If (regex.IsMatch(e.KeyChar.ToString())) Then
+        '    e.Handled = True
+        '    Interaction.Beep()
+        'End If
+
+        e.Handled = e.KeyChar <> ChrW(Keys.Back) And Not Char.IsSeparator(e.KeyChar) And Not Char.IsLetter(e.KeyChar) And Not Char.IsDigit(e.KeyChar)
+
     End Sub
 End Class

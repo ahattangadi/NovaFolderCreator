@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi"><?define NovaUpdater_TargetDir=$(var.NovaUpdater.TargetDir)?>
+	<Product Id="*" Name="WIX_NovaSetup" Language="1033" Version="1.0.0.0" Manufacturer="" UpgradeCode="dbca0083-d311-45b8-9acd-4d6273be0e83">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="WIX_NovaSetup" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+			<ComponentGroupRef Id="ProgramFilesFolder_files" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WIX_NovaSetup" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<!-- TODO: Remove the comments around this Component element and the ComponentRef below in order to add resources to this installer. -->
+			<!-- <Component Id="ProductComponent"> -->
+				<!-- TODO: Insert files, registry keys, and other resources here. -->
+			<!-- </Component> -->
+		</ComponentGroup>
+	</Fragment>
+	<Fragment>
+	  <ComponentGroup Id="ProgramFilesFolder_files" Directory="ProgramFilesFolder">
+	    <Component Id="NovaUpdater.dll" Guid="a1b48f13-6c58-4fce-b736-20a6b87669bd">
+	      <File Id="NovaUpdater.dll" Name="NovaUpdater.dll" Source="$(var.NovaUpdater_TargetDir)NovaUpdater.dll" />
+	    </Component>
+	  </ComponentGroup>
+	</Fragment>
+</Wix>

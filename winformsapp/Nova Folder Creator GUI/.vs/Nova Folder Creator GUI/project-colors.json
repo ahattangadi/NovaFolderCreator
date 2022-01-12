@@ -20,7 +20,17 @@
       "ProjectGuid": "61993ce7-33c2-41ef-85c7-9bb740538306",
       "DisplayName": "NovaUpdater",
       "ColorIndex": 2
+    },
+    "5548cc8a-e50b-445b-bec1-ed489473c774": {
+      "ProjectGuid": "5548cc8a-e50b-445b-bec1-ed489473c774",
+      "DisplayName": "WIX_NovaSetup",
+      "ColorIndex": 3
+    },
+    "b34ec3c5-e428-43a1-aeb0-d9635916104e": {
+      "ProjectGuid": "b34ec3c5-e428-43a1-aeb0-d9635916104e",
+      "DisplayName": "WIX_NovaSetup",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 5
 }
