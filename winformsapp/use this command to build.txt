@@ -1,0 +1,3 @@
+dotnet publish -o ".\build" --sc
+
+try --os win10-x86 and --os win10-x64

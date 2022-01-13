@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "URGqkwKAMePTVqt5DsQByLHovQ5n7ysQLVpfB9Dc1OXo1wuUgOE/3wkQ9Mdcdin3+n8AbESYqvH/5mJk703/7A==",
+  "dgSpecHash": "2MpIWbnDvXwNe4Wz+/PwocaWE399D0pyb58/faQtBXHiBVFBbeGMJIctaocGhyCE7Y8siHeSOkPfCzrPC+a+fw==",
   "success": true,
   "projectFilePath": "D:\\Data\\TECH\\Code\\Side Projects\\Cipher\\Nova Folder Creator\\winformsapp\\Nova Folder Creator GUI\\NovaUpdater\\NovaUpdater.vbproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\aarav\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.12\\microsoft.netcore.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\aarav\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\aarav\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

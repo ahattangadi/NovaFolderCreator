@@ -7,8 +7,8 @@
     <StartupObject>Sub Main</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
-    <Platforms>AnyCPU;x64</Platforms>
-    <SignAssembly>true</SignAssembly>
+    <Platforms>AnyCPU</Platforms>
+    <SignAssembly>false</SignAssembly>
     <DelaySign>false</DelaySign>
     <AssemblyOriginatorKeyFile>NovaFolderCreatorGUI.pfx</AssemblyOriginatorKeyFile>
     <ApplicationIcon>ic_main_w_256_h_256_mipmap.ico</ApplicationIcon>
@@ -39,6 +39,7 @@
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <OutputPath>D:\Data\TECH\Code\Side Projects\Nova Folder Creator\winformsapp\debug-profile-dir\</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
 
   <ItemGroup>
