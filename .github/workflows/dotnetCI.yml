@@ -40,5 +40,5 @@ jobs:
       # Build x86
       - name: Building the software
         run:
-          cd "\winformsapp\Nova Folder Creator GUI\"
+          cd "\winformsapp\Nova Folder Creator GUI\" &&
           dotnet publish -r win7-x86 -sc
